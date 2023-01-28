@@ -1,0 +1,1 @@
+pyuic5 -x Downloader.ui -o Downloader.py
