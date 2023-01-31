@@ -1,1 +1,4 @@
 /Download
+/__pycache__
+/dist
+.gitignore
